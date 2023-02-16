@@ -21,3 +21,7 @@ In my opinion, python has a lot of great libraries that can be used to make text
 
 ### What I learned
 I have a large amount of work experience in python, so this assignment was a nice review for me. I did learn a few very specific things, such as how to make a “main” function in python, how to make file paths be cross platform and how to use pickle as a whole.
+
+## Program 2 - Guessing Game :dart:
+[Here](Guessing_Game/Homework2_fcd180001.py) is a python program that normalizes data and uses it in a guessing game. The data comes from [this](Guessing_Game/anat19.txt) text file containing a chapter of an anatomy textbook.
+
