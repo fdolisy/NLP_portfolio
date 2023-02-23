@@ -25,3 +25,5 @@ I have a large amount of work experience in python, so this assignment was a nic
 ## Program 2 - Guessing Game :dart:
 [Here](Guessing_Game/Homework2_fcd180001.py) is a python program that normalizes data and uses it in a guessing game. The data comes from [this](Guessing_Game/anat19.txt) text file containing a chapter of an anatomy textbook.
 
+## Portfolio 3 - WordNet ::goal_net::
+[Here](WordNet.pdf) is a pdf containing usage example of wordnet in NLTK. 
