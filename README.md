@@ -30,3 +30,10 @@ I have a large amount of work experience in python, so this assignment was a nic
 
 ## Portfolio 4 - Sentence Parsing :page_with_curl:
 [Here](pdfs/sentence_parsing.pdf) is a display of three different methods of sentence parsing. 
+
+## Portfolio 5 - N-grams :balance_scale:
+In order to create an ngram model for this [data](Ngram/data/wordLangId.out), two programs must be run:
+
+1. [program 1](Ngram/ngram_program1.py) creates unigram and bigram dictionaries for the given corpus - in this case 3 documents one in english, french and italian
+2. Using the resulting files from program 1, we can now run [program 2](Ngram/ngram_program2.py) to find the accuracy of the model we create, the results are written to [Identifications.txt](Ngram/Identifications.txt).
+
