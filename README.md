@@ -2,7 +2,7 @@
 This is a repository for natural language processing projects
 
 ## Overview of NLP
-[Here](Overview_of_NLP.pdf) is a brief overview about NLP!
+[Here](pdfs/Overview_of_NLP.pdf) is a brief overview about NLP!
 
 ## Program 1 - Text Processing in python :fountain_pen:
 
@@ -25,5 +25,8 @@ I have a large amount of work experience in python, so this assignment was a nic
 ## Program 2 - Guessing Game :dart:
 [Here](Guessing_Game/Hw2_fcd180001.py) is a python program that normalizes data and uses it in a guessing game. The data comes from [this](Guessing_Game/anat19.txt) text file containing a chapter of an anatomy textbook.
 
-## Portfolio 3 - WordNet ::goal_net::
-[Here](WordNet.pdf) is a pdf containing usage example of wordnet in NLTK. 
+## Portfolio 3 - WordNet :goal_net:
+[Here](pdfs/WordNet.pdf) is a pdf containing usage example of wordnet in NLTK. 
+
+## Portfolio 4 - Sentence Parsing :page_with_curl:
+[Here](pdfs/sentence_parsing.pdf) is a display of three different methods of sentence parsing. 
