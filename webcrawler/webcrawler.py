@@ -3,11 +3,12 @@
  >>> Title: Web Crawler
  >>> Portfolio Link: https://fdolisy.github.io/NLP_portfolio/
  >>> To run: `[your systems python keyword] webcrawler.py`
- >>> *this program uses sqlite to create a db knowledge base
+ >>> *ensure first that requests and bs4 are installed
+ >>> to do so type in 'pip install requests' and 'pip install bs4'
 """
 from bs4 import BeautifulSoup
 import urllib.request
-from pip._vendor import requests
+import requests
 import re
 import nltk
 from nltk import sent_tokenize, word_tokenize
