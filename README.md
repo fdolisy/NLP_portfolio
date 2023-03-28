@@ -43,3 +43,6 @@ In order to create an ngram model for this [data](Ngram/data), two programs must
 [Here](webcrawler/webcrawler.py) is a program that scraped the jeffrey bezos wikipedia page to build a knowledge base about him. The related report about the logistics of the code and a sample chatbot can be found [here](pdfs/Web_Scraper_Report.pdf) .
 
 To run ensure that the modules `bs4` and `requests` are installed, otherwise this code will not run. To install run `pip install [module name]`
+
+## Portfolio 7 - Text classification 1 :star:
+[Here](pdfs/TextClassification1.pdf) is a pdf that shows a comparison of naive bayes, logistic regresesiona ndueral networks on a small dataset. The dataset contains two columns, in one is a movie review, the other indicating if that review is a positive or negative one.
