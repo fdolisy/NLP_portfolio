@@ -46,3 +46,6 @@ To run ensure that the modules `bs4` and `requests` are installed, otherwise thi
 
 ## Portfolio 7 - Text classification 1 :star:
 [Here](pdfs/TextClassification1.pdf) is a pdf that shows a comparison of naive bayes, logistic regresesiona ndueral networks on a small dataset. The dataset contains two columns, in one is a movie review, the other indicating if that review is a positive or negative one.
+
+## Portfolio 7 - ACL Paper summary :fr:
+[Here](pdfs/ACL_Overview.pdf) is a pdf that writes a summary and analysis on the paper [French CrowS-Pairs: Extending a challenge dataset for measuring social bias in masked language models to a language other than English](pdfs/French_CrowS-Pairs.pdf)
