@@ -22,7 +22,7 @@ In my opinion, python has a lot of great libraries that can be used to make text
 ### What I learned
 I have a large amount of work experience in python, so this assignment was a nice review for me. I did learn a few very specific things, such as how to make a “main” function in python, how to make file paths be cross platform and how to use pickle as a whole.
 
-## Program 2 - Guessing Game :dart:
+## Portfolio 2 - Guessing Game :dart:
 [Here](Guessing_Game/Hw2_fcd180001.py) is a python program that normalizes data and uses it in a guessing game. The data comes from [this](Guessing_Game/anat19.txt) text file containing a chapter of an anatomy textbook.
 
 ## Portfolio 3 - WordNet :goal_net:
@@ -44,8 +44,15 @@ In order to create an ngram model for this [data](Ngram/data), two programs must
 
 To run ensure that the modules `bs4` and `requests` are installed, otherwise this code will not run. To install run `pip install [module name]`
 
-## Portfolio 7 - Text classification 1 :star:
+## Portfolio 7 - Text Classification 1 :star:
 [Here](pdfs/TextClassification1.pdf) is a pdf that shows a comparison of naive bayes, logistic regresesiona ndueral networks on a small dataset. The dataset contains two columns, in one is a movie review, the other indicating if that review is a positive or negative one.
 
-## Portfolio 7 - ACL Paper summary :fr:
+## Portfolio 8 - ACL Paper Summary :fr:
 [Here](pdfs/ACL_Overview.pdf) is a pdf that writes a summary and analysis on the paper [French CrowS-Pairs: Extending a challenge dataset for measuring social bias in masked language models to a language other than English](pdfs/French_CrowS-Pairs.pdf)
+
+## Portfolio 9 - Chatbot :speech_balloon:
+In this assignment, I collaborated with @cadybaltz to create a travel guide chatbot. Further deatils/code can be found in this [repository](https://github.com/fdolisy/TravelAgent)
+
+
+## Portfolio 10 - Text Classification 2 :speaker:
+In this assignment I created multiple models to learn whether someone was depressed based off a collection of reddit comments that were compressed into a simple classification [dataset](https://www.kaggle.com/datasets/infamouscoder/depression-reddit-cleaned). My models, results and analysis can be found in this [pdf](pdfs/TextClassification2_fcd180001.pdf).
