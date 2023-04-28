@@ -57,4 +57,4 @@ In this assignment, I collaborated with @cadybaltz to create a travel guide chat
 ## Assignment 10 - Text Classification 2 :speaker:
 In this assignment I created multiple models to learn whether someone was depressed based off a collection of reddit comments that were compressed into a simple classification [dataset](https://www.kaggle.com/datasets/infamouscoder/depression-reddit-cleaned). My models, results and analysis can be found in this [pdf](https://github.com/fdolisy/NLP_portfolio/blob/main/Assignment_10/TextClassification2_fcd180001.pdf).
 
-## [Skills] (SKILLS.md)
+## [Skills](SKILLS.md)
