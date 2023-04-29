@@ -1,6 +1,27 @@
 # NLP_portfolio
 This is a repository for natural language processing projects. They are all split up by assignments.
 
+==> [Skills Used](SKILLS.md)
+
+==> [Assignment 1](https://github.com/fdolisy/NLP_portfolio/tree/main/Assignment_1)
+
+==> [Assignment 2](https://github.com/fdolisy/NLP_portfolio/tree/main/Assignment_2)
+
+==> [Assignment 3](https://github.com/fdolisy/NLP_portfolio/tree/main/Assignment_3)
+
+==> [Assignment 4](https://github.com/fdolisy/NLP_portfolio/tree/main/Assignment_4)
+
+==> [Assignment 5](https://github.com/fdolisy/NLP_portfolio/tree/main/Assignment_5)
+
+==> [Assignment 6](https://github.com/fdolisy/NLP_portfolio/tree/main/Assignment_6)
+
+==> [Assignment 7](https://github.com/fdolisy/NLP_portfolio/tree/main/Assignment_7)
+
+==> [Assignment 8](https://github.com/fdolisy/NLP_portfolio/tree/main/Assignment_8)
+
+==> [Assignment 10](https://github.com/fdolisy/NLP_portfolio/tree/main/Assignment_10)
+
+# Index Page
 ## Overview of NLP
 [Here](https://github.com/fdolisy/NLP_portfolio/blob/main/Overview_of_NLP.pdf) is a brief overview about NLP!
 
@@ -57,4 +78,8 @@ In this assignment, I collaborated with @cadybaltz to create a travel guide chat
 ## Assignment 10 - Text Classification 2 :speaker:
 In this assignment I created multiple models to learn whether someone was depressed based off a collection of reddit comments that were compressed into a simple classification [dataset](https://www.kaggle.com/datasets/infamouscoder/depression-reddit-cleaned). My models, results and analysis can be found in this [pdf](https://github.com/fdolisy/NLP_portfolio/blob/main/Assignment_10/TextClassification2_fcd180001.pdf).
 
-## [Skills](SKILLS.md)
+## Closing Summary
+Prior to this semester I had little to no experience with NLP, other than minimal text processing in prior machine learning classes. However, with all of these assignments as dicussed above, I have gained invaluable experience with various NLP techniques. From learning the basics of preprocessing and normalizing to creating actual models that can accurately predict various pieces of data once trained, I learned that NLP has become a crucial skill in todays modern world. I cannot wait to further use these techniques in my own specific interests. I personally have always enjoyed designing compilers and cannot wait to use these new learned techniques to further develope better compilers and sytnax parsers (such as github copilot).
+
+This technology seems to be changing every day, we had so much to talk about in terms of news in this class relating to things such as Chat-GPT and other rapidly growing technologies. It seems hard to manage in terms of keeping up with whats new in this field, but I plan to continue reading research papers with topics that peak my interest to see where this field is headed. Though I may not have a career in this field at the moment, I cannot wait to further devleope my own skills with my own personal projects as explained in my opening paragraph.
+
